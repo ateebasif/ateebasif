@@ -1,3 +1,9 @@
+<!-- ![Masthead Image](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e) -->
+
+![Masthead Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ateebasif.ateebasif" />
 
 <h1 align="center">
@@ -10,11 +16,11 @@
 
 <div align="center">
  
-- 🔭 I’m currently working on **JavaScript including react, node, firebase and much more.**
+ 🔭 I’m currently working on **JavaScript including react, node, firebase and much more.**
 
-- 📫 How to reach me **ateeb.asif902@gmail.com**
+ 📫 How to reach me **ateeb.asif902@gmail.com**
 
-- ⚡ Fun fact **I can also play Guitar😉**
+ ⚡ Fun fact **I can also play Guitar😉**
 
  </div>
  
@@ -35,8 +41,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,firebase,mongodb,supabase,react,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,prisma,figma,tailwind,git,notion" />
 </div>
 
 <br/>
@@ -52,23 +58,4 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-ateebasif.vercel.app/?user=ateebasif&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-ateebasif.vercel.app/api?username=ateebasif&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-ateebasif.vercel.app/api/top-langs/?username=ateebasif&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
